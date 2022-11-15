@@ -1,0 +1,42 @@
+.bb{
+    background-color: bisque;
+}
+.img{
+    width: 400px;
+    float: right;
+    padding-top: 50px;
+    padding-right: 70px;
+}
+.p{
+    font-size: 20px;
+    padding-left: 21px;
+    padding-right: 500px;
+    justify-content: center;
+}
+
+.div{
+    background-color: rgb(188, 164, 135);
+}
+.c{
+    width: 2%;
+}
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+
+  ::-webkit-scrollbar-track {
+    background: rgb(230, 199, 162); 
+  }
+   
+ 
+  ::-webkit-scrollbar-thumb {
+    background: rgb(186, 155, 119); 
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+  .pp{
+    font-size: 20px;
+  }
